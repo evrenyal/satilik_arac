@@ -13,3 +13,5 @@
 **Yakıt**: Benzin  
 **Vites**: Otomatik  
 **KM**: 64.000
+
+**Fiyat Bilgisi**: 640.000 TL
